@@ -8,13 +8,7 @@ I am interested in the things with visualisation, and I believe colors and image
 ## Favorite Creations :satisfied:
 :computer: BSc Final Year Project - Android Learning App
 
-:open_umbrella: Invention - 'Sun Umbrella'
-
-:running: Mini-Project - Unity 2D Running Game
-
-:globe_with_meridians: Website for Summer Exchange Programmes - UCLA 2017 & Bologna 2019
-
-:school: Our Student Union Website
+:open_umbrella: Secondary School Invention - 'Sun Umbrella'
 
 
 
