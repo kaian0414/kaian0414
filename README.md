@@ -26,6 +26,7 @@ Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with vi
 - Database & SQL
 - Android Studio (with Java)
 - Python
+- ...
 
 <!--
 **kaian0414/kaian0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
