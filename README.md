@@ -1,18 +1,31 @@
 ![kaian_github](https://user-images.githubusercontent.com/34164281/137519856-98ee171f-c26c-48e9-bf83-bf7a2f00ae4f.png)
 
 ## Hello, I am Ka Ian 👋
+
 :woman_technologist: MSc in Big Data and IoT (2020 ~ Present)
 
 :woman_student: BSc in Computing (2016 ~ 2020)
 
-Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. Also, I enjoy discussing psychology, that's a interesting topic! I wanna to be a life long learners.
+Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. Also, I enjoy discussing education and psychology, those are interesting topics! I wanna to be a life long learners.
+
+- Learning interesting topics (To see what I suddenly want to learn)
+- Handwriting notes :pencil2:
+- Photographing (i.e. scenery, foods) :camera: Recording my daily life!
+
+<br>
 
 ## Favorite Creations :satisfied:
 :computer: BSc Final Year Project - Android Learning App
 
 :open_umbrella: Secondary School Invention - 'Sun Umbrella'
 
+<br>
 
+## Technologies :star:
+- Unity
+- Database & SQL
+- Android Studio (with Java)
+- Python
 
 <!--
 **kaian0414/kaian0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
