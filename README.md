@@ -4,7 +4,7 @@
 
 :woman_technologist: MSc in Big Data and IoT (2020 ~ Present)
 
-:woman_student: BSc in Computing (2016 ~ 2020)
+:woman_student: BSc in Computing - Computer Education (2016 ~ 2020)
 
 Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. Also, I enjoy discussing education and psychology, those are interesting topics! I wanna to be a life long learners.
 
