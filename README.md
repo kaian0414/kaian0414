@@ -7,7 +7,7 @@
 :woman_student: BSc in Computing - Computer Education (2016 ~ 2020)
 
 <br>
-:rocket: @ ESCA Student Union
+:beginner: ESCA Student Union
 
 Vice-President :arrow_forward: President :arrow_forward: Honorary Advisor
 
