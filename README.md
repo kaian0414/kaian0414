@@ -8,9 +8,9 @@
 Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. Also, I enjoy discussing psychology, that's a interesting topic! I wanna to be a life long learners.
 
 ## Favorite Creations :satisfied:
-:computer: [BSc Final Year Project - Android Learning App](https://ieeexplore.ieee.org/document/9419612)
+:computer: BSc Final Year Project - Android Learning App
 
-:open_umbrella: [Secondary School Invention - 'Sun Umbrella'](https://patents.google.com/patent/CN205143765U/)
+:open_umbrella: Secondary School Invention - 'Sun Umbrella'
 
 
 
