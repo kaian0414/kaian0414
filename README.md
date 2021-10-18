@@ -6,11 +6,18 @@
 
 :woman_student: BSc in Computing - Computer Education (2016 ~ 2020)
 
-Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. Also, I enjoy discussing education and psychology, those are interesting topics! I wanna to be a life long learners.
+<br>
+:rocket: @ ESCA Student Union
 
-- Learning interesting topics (To see what I suddenly want to learn)
-- Handwriting notes :pencil2:
-- Photographing (i.e. scenery, foods) :camera: Recording my daily life!
+Vice-President :arrow_forward: President :arrow_forward: Honorary Advisor
+
+<br>
+
+Hello, I am Ka Ian, a MSc. Student at MPI.
+
+I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. I enjoy handwriting, I usually mark notes by hands. I also love photographing to record my daily life.
+
+Other than computing / technologies, I enjoy discussing psychology, it can explain many scenarios, that is really a interesting topics! I wanna to be a life long learners to explore what I suddenly interested in.
 
 <br>
 
@@ -22,6 +29,7 @@ Hello, I am Ka Ian, a MSc. Student at MPI. I am interested in the things with vi
 <br>
 
 ## Technologies :star:
+I started learning technologies since Year 1. Before that, I knew nothing. In these few years, I put some efforts on some technologies. :smile:
 - Unity
 - Database & SQL
 - Android Studio (with Java)
