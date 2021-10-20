@@ -37,7 +37,6 @@ I started learning technologies since Year 1. Before that, I knew nothing. In th
 - ...
 
 ## Where to find me :globe_with_meridians:
-:mailbox: kaian0414@gmail.com
 
 :octocat: https://github.com/kaian0414
 
