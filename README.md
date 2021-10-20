@@ -29,12 +29,17 @@ Other than computing / technologies, I enjoy discussing psychology, it can expla
 <br>
 
 ## Technologies :star:
-I started learning technologies since Year 1. Before that, I knew nothing. In these few years, I put some efforts on some technologies. :smile:
+I started learning technologies since Year 1. Before that, I knew nothing. In these years, I put some efforts on some technologies. :smile:
 - Unity
 - Database & SQL
 - Android Studio (with Java)
 - Python
 - ...
+
+## Where to find me :globe_with_meridians:
+:mailbox: kaian0414@gmail.com
+
+:octocat: https://github.com/kaian0414
 
 <!--
 **kaian0414/kaian0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
