@@ -19,6 +19,8 @@ I am interested in the things with visualisation, and I believe colors and image
 
 Other than computing / technologies, I enjoy discussing psychology, it can explain many scenarios, that is really a interesting topics! I wanna to be a life long learners to explore what I suddenly interested in.
 
+:octocat: https://github.com/kaian0414
+
 <br>
 
 ## Favorite Creations :satisfied:
@@ -35,10 +37,6 @@ I started learning technologies since Year 1. Before that, I knew nothing. In th
 - Android Studio (with Java)
 - Python
 - ...
-
-## Where to find me :globe_with_meridians:
-
-:octocat: https://github.com/kaian0414
 
 <!--
 **kaian0414/kaian0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
