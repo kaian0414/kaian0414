@@ -19,7 +19,9 @@ I am interested in the things with visualisation, and I believe colors and image
 
 Other than computing / technologies, I enjoy discussing psychology, it can explain many scenarios, that is really a interesting topics! I wanna to be a life long learners to explore what I suddenly interested in.
 
-:octocat: https://github.com/kaian0414
+:octocat: GitHub: https://github.com/kaian0414
+
+:small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
 
 <br>
 
