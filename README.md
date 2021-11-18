@@ -2,33 +2,9 @@
 
 ## Hello, I am Ka Ian 👋
 
-:woman_technologist: MSc in Big Data and IoT (2020 ~ Present)
-
-:woman_student: BSc in Computing - Computer Education (2016 ~ 2020)
-
-<br>
-:beginner: ESCA Student Union
-
-Vice-President :arrow_forward: President :arrow_forward: Honorary Advisor
-
-<br>
-
-Hello, I am Ka Ian, a MSc. Student at MPI.
-
-I am interested in the things with visualisation, and I believe colors and images can catch everyone's eyes. I enjoy handwriting, I usually mark notes by hands. I also love photographing to record my daily life.
-
-Other than computing / technologies, I enjoy discussing psychology, it can explain many scenarios, that is really a interesting topics! I wanna to be a life long learners to explore what I suddenly interested in.
-
 :octocat: GitHub: https://github.com/kaian0414
 
 :small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
-
-<br>
-
-## Favorite Creations :satisfied:
-:computer: BSc Final Year Project - Android Learning App
-
-:open_umbrella: Secondary School Invention - 'Sun Umbrella'
 
 <br>
 
