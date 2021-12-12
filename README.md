@@ -1,15 +1,21 @@
 ![kaian_github](https://user-images.githubusercontent.com/34164281/137519856-98ee171f-c26c-48e9-bf83-bf7a2f00ae4f.png)
 
 ## Hello, I am Ka Ian 👋
+MPI - MSc in Big Data and IoT
 
+MPI - BSc in Computing (Computer Education)
+
+<br>
+
+## Codes
 :octocat: GitHub: https://github.com/kaian0414
+(Public repositories are for fun only XD)
 
 :small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
 
 <br>
 
 ## Technologies :star:
-I started learning technologies since Year 1. Before that, I knew nothing. In these years, I put some efforts on some technologies. :smile:
 - Unity
 - Database & SQL
 - Android Studio (with Java)
