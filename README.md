@@ -1,7 +1,7 @@
 ![kaian_github](https://user-images.githubusercontent.com/34164281/137519856-98ee171f-c26c-48e9-bf83-bf7a2f00ae4f.png)
 
 ## Hello, I am Ka Ian 👋
-MPI - MSc in Big Data and IoT
+MPI/MPU - MSc in Big Data and IoT
 
 MPI - BSc in Computing (Computer Education)
 
