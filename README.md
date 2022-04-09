@@ -9,17 +9,17 @@ MPI - BSc in Computing (Computer Education)
 
 ## Codes
 :octocat: GitHub: https://github.com/kaian0414
-(Public repositories are for fun only XD)
 
 :small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
 
 <br>
 
-## Technologies :star:
-- Unity
+## Interests :star:
+- Educational Data Mining
+- Android Studio
 - Database & SQL
-- Android Studio (with Java)
 - Python
+- Unity
 - ...
 
 <!--
