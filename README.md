@@ -7,7 +7,7 @@ MPI - BSc in Computing (Computer Education)
 
 <br>
 
-## Codes
+## Codes for Fun
 :octocat: GitHub: https://github.com/kaian0414
 
 :small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
