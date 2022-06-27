@@ -1,13 +1,15 @@
 ![kaian_github](https://user-images.githubusercontent.com/34164281/137519856-98ee171f-c26c-48e9-bf83-bf7a2f00ae4f.png)
 
 ## Hello, I am Ka Ian 👋
-MPI/MPU - MSc in Big Data and IoT
+- MSc in Big Data and IoT
 
-MPI - BSc in Computing (Computer Education)
+- BSc in Computing
 
 <br>
 
 ## Codes for Fun
+Important codes are not saved here 😄
+
 :octocat: GitHub: https://github.com/kaian0414
 
 :small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
@@ -15,7 +17,7 @@ MPI - BSc in Computing (Computer Education)
 <br>
 
 ## Interests :star:
-- Educational Data Mining
+- Data
 - Android Studio
 - Database & SQL
 - Python
