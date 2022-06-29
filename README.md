@@ -10,14 +10,9 @@
 ## Codes for Fun
 Important codes are not saved here 😄
 
-:octocat: GitHub: https://github.com/kaian0414
-
-:small_blue_diamond: Kaggle: https://www.kaggle.com/kaianchan
-
 <br>
 
 ## Interests :star:
-- Data
 - Android Studio
 - Database & SQL
 - Python
